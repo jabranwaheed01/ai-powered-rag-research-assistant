@@ -364,12 +364,3 @@ pytest
 ## Project Goal
 
 The goal of this project is to provide a reliable research assistant that answers questions using information retrieved from trusted research documents instead of relying only on the language model's internal knowledge.
-
-## Future Improvements
-
-* Flutter frontend integration
-* Improved citation handling for streaming responses
-* More document formats
-* Advanced retrieval and reranking
-* Authentication and user management
-* Production deployment
